@@ -7,7 +7,7 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "fs": "^0.0.1-security",
-    "jest": "^21.2.1",
+    "jest": "^29.3.1",
     "mysql2": "^1.5.1",
     "path": "^0.12.7",
     "sequelize": "^4.28.1"
